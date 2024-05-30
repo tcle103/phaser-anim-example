@@ -1,0 +1,13 @@
+#text {
+    text-align: center;
+    width: 300px;
+    margin-left: 10px;
+}
+
+#phaser-game {
+    background-color: lightgray;
+    border: 1px solid darkgray;
+    width: 300px;
+    margin: 10px;
+}
+
